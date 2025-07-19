@@ -99,3 +99,60 @@ As our model is ready, so we can now remove the assumed centroids, and the two f
 
 <img width="450" height="387" alt="image" src="https://github.com/user-attachments/assets/3e317e1f-7f0f-43d6-8fd8-fb2dc99b5865" />
 
+
+Now lets explain how dose the Systeam work:
+
+
+<img width="965" height="653" alt="image" src="https://github.com/user-attachments/assets/0a6673e5-4d9e-4df9-9a02-ec4a773e58f3" />
+
+Project Interfase
+
+Step one/ upliad datas:
+click on upload images Button to upload the data.
+
+<img width="1075" height="648" alt="image" src="https://github.com/user-attachments/assets/5e83a6d1-6f84-43b7-b7b0-faf82ef68fe8" />
+
+
+When you upload the data it show to you the number of images you uploaded it in message box.
+<img width="957" height="645" alt="image" src="https://github.com/user-attachments/assets/c7079067-02d6-4a4e-9815-38ce75751437" />
+
+Step two/ chose the number of cluster and click cluster Images to start the algorithm.
+
+<img width="479" height="53" alt="image" src="https://github.com/user-attachments/assets/6e3dae63-ffaa-4e17-9fcb-cfefa61059b3" />
+
+
+When you click on Cluster Images Button the algorithm start clustering images to groups According to the dominant color in the Images.
+
+<img width="965" height="649" alt="image" src="https://github.com/user-attachments/assets/c4699bd5-f406-4c2c-b9ea-1cc0fec0f19d" />
+
+CLUSTER 1
+
+<img width="960" height="645" alt="image" src="https://github.com/user-attachments/assets/cf26e8c7-ff3d-4ad7-85a8-449bdf648c82" />
+
+CLUSTER 2
+
+<img width="962" height="646" alt="image" src="https://github.com/user-attachments/assets/aeb887cf-d7d0-480e-af41-94b939940782" />
+
+CLUSTER 3
+
+<img width="960" height="647" alt="image" src="https://github.com/user-attachments/assets/209ba7d4-3cfc-4484-a1f5-17ae81df8d76" />
+
+CLUSTER 4
+
+
+Step three/ saving the Clusters in the computer:
+click on Save Clusters the select the location you need to save all Clusters on it and click save.
+
+<img width="956" height="644" alt="image" src="https://github.com/user-attachments/assets/6e05b64e-f57b-43f9-930d-e1db82062584" />
+
+
+<img width="960" height="642" alt="image" src="https://github.com/user-attachments/assets/3a58e5b6-8e14-44f5-b2eb-e6a1a38418fc" />
+
+
+<img width="1025" height="593" alt="image" src="https://github.com/user-attachments/assets/bfde4e0e-6500-426c-9b76-d7646b70bf8d" />
+
+
+<img width="1045" height="817" alt="image" src="https://github.com/user-attachments/assets/8d94eada-8a21-4e7c-bb12-084a315a08ba" />
+
+
+
